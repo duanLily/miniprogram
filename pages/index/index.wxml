@@ -22,7 +22,7 @@
     <br />
     <button bindtap="bindViewTap">日志信息</button>
     <br />
-    <button bindtap="bindViewDemo">Demo</button>
+    <button bindtap="bindViewDemo">WXML模板</button>
     <br />
     <button bindtap="clickMe">点击我</button>
     <br />

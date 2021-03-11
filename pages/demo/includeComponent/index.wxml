@@ -1,0 +1,6 @@
+<!-- index.wxml -->
+<template name="index">
+  <include src="header.wxml"/>
+  <view>body</view>
+  <include src="footer.wxml"/>
+</template>
