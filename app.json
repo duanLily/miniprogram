@@ -1,12 +1,13 @@
 {
   "pages":[ 
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/demo/demo"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "MiniProgram",
     "navigationBarTextStyle":"black"
   },
   "style": "v2",

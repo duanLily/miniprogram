@@ -1,0 +1,6 @@
+<!--demo.wxml-->
+  <!-- view 中包含了 text 标签 -->
+<view>
+  <!--一个简单的文本标签 -->
+  <text>hello world</text>
+</view>

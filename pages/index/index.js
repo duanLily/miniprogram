@@ -17,6 +17,12 @@ Page({
       url: '../logs/logs'
     })
   },
+  // 事件处理函数
+  bindViewDemo() {
+    wx.navigateTo({
+      url: '../demo/demo'
+    })
+  },
   onLoad() {
     if (wx.getUserProfile) {
       this.setData({

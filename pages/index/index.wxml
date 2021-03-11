@@ -20,6 +20,10 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
     <br />
+    <button bindtap="bindViewTap">日志信息</button>
+    <br />
+    <button bindtap="bindViewDemo">Demo</button>
+    <br />
     <button bindtap="clickMe">点击我</button>
     <br />
     <button bindtap="reClickMe">再次点击我</button>
